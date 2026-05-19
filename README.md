@@ -1,9 +1,9 @@
-# Fall 2025 Zero to ML Workshops
+# Spring 2026 Zero to ML Workshops
 ![Image created with `gpt-image-1`](./Banner.png)
 _Image created with `gpt-image-1`_
 
 ## Contents
-This repository contains all the lessons for WAT.ai's Fall 2025 Zero to ML workshop series. These workshops are intended for students without any coding experience. **We teach the following concepts**: 
+This repository contains all the lessons for WAT.ai's Spring 2026 Zero to ML workshop series. These workshops are intended for students without any coding experience. **We teach the following concepts**: 
 1. The command line and package management
 2. Version control, git, and github
 3. Object oriented programming with Python
